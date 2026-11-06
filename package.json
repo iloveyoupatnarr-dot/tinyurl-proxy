@@ -1,0 +1,1 @@
+{"description":"Serverless-style proxy for TinyURL shortening (fixes browser CORS failures). No storage, in-memory only.","main":"server.js","name":"tinyurl-proxy","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
